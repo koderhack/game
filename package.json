@@ -1,0 +1,16 @@
+{
+  "name": "FPS BY KODER",
+  "version": "1.0.0",
+  "description": "This is my short game about warplanes",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "phaser": "3.20.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  }
+}
